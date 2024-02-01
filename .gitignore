@@ -1,0 +1,5 @@
+# Ignorar archivos de tipo "db"
+*.db
+
+# Ignorar el documento "secrets.txt"
+secrets.txt
